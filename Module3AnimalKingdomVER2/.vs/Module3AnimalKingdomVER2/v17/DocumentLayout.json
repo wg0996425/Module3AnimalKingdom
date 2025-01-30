@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC486887-E1D6-4C6F-B069-C36A761E85B3}|AnimalTests\\AnimalTests.csproj|c:\\users\\wg0996425\\source\\repos\\cis_150\\module3animalkingdomver2\\animaltests\\animalinheritancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC486887-E1D6-4C6F-B069-C36A761E85B3}|AnimalTests\\AnimalTests.csproj|solutionrelative:animaltests\\animalinheritancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|c:\\users\\wg0996425\\source\\repos\\cis_150\\module3animalkingdomver2\\module3animalkingdomver2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|solutionrelative:module3animalkingdomver2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|c:\\users\\wg0996425\\source\\repos\\cis_150\\module3animalkingdomver2\\module3animalkingdomver2\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|solutionrelative:module3animalkingdomver2\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|c:\\users\\wg0996425\\source\\repos\\cis_150\\module3animalkingdomver2\\module3animalkingdomver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|solutionrelative:module3animalkingdomver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|c:\\users\\wg0996425\\source\\repos\\cis_150\\module3animalkingdomver2\\module3animalkingdomver2\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEEC5EA-17C1-4A65-A1B6-317AB5D8FE49}|Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj|solutionrelative:module3animalkingdomver2\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Fish.cs",
+              "RelativeDocumentMoniker": "Module3AnimalKingdomVER2\\Fish.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Fish.cs",
+              "RelativeToolTip": "Module3AnimalKingdomVER2\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:30:24.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Animal.cs",
+              "RelativeDocumentMoniker": "Module3AnimalKingdomVER2\\Animal.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Animal.cs",
+              "RelativeToolTip": "Module3AnimalKingdomVER2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:30:15.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Bird.cs",
+              "RelativeDocumentMoniker": "Module3AnimalKingdomVER2\\Bird.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Bird.cs",
+              "RelativeToolTip": "Module3AnimalKingdomVER2\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:30:22.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalInheritanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\AnimalTests\\AnimalInheritanceTests.cs",
+              "RelativeDocumentMoniker": "AnimalTests\\AnimalInheritanceTests.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\AnimalTests\\AnimalInheritanceTests.cs",
+              "RelativeToolTip": "AnimalTests\\AnimalInheritanceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:21:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Program.cs",
+              "RelativeDocumentMoniker": "Module3AnimalKingdomVER2\\Program.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Program.cs",
+              "RelativeToolTip": "Module3AnimalKingdomVER2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:16:17.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
