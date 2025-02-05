@@ -12,3 +12,18 @@ C:\Users\wg0996425\source\repos\CIS_150\Module3AnimalKingdomVER2\Module3AnimalKi
 C:\Users\wg0996425\source\repos\CIS_150\Module3AnimalKingdomVER2\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.pdb
 C:\Users\wg0996425\source\repos\CIS_150\Module3AnimalKingdomVER2\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.genruntimeconfig.cache
 C:\Users\wg0996425\source\repos\CIS_150\Module3AnimalKingdomVER2\Module3AnimalKingdomVER2\obj\Debug\net8.0\ref\Module3AnimalKingdomVER2.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\bin\Debug\net8.0\Module3AnimalKingdomVER2.exe
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\bin\Debug\net8.0\Module3AnimalKingdomVER2.deps.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\bin\Debug\net8.0\Module3AnimalKingdomVER2.runtimeconfig.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\bin\Debug\net8.0\Module3AnimalKingdomVER2.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\bin\Debug\net8.0\Module3AnimalKingdomVER2.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.AssemblyInfoInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.AssemblyInfo.cs
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.csproj.CoreCompileInputs.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.sourcelink.json
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\refint\Module3AnimalKingdomVER2.dll
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.pdb
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\Module3AnimalKingdomVER2.genruntimeconfig.cache
+C:\Users\wg0996425\OneDrive - Ozarks Technical Community College\Documents\Module3AnimalKingdom\Module3AnimalKingdomVER2\obj\Debug\net8.0\ref\Module3AnimalKingdomVER2.dll

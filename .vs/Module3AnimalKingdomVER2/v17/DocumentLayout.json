@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC486887-E1D6-4C6F-B069-C36A761E85B3}|AnimalTests\\AnimalTests.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\module3animalkingdom\\animaltests\\animalinheritancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC486887-E1D6-4C6F-B069-C36A761E85B3}|AnimalTests\\AnimalTests.csproj|solutionrelative:animaltests\\animalinheritancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalInheritanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\AnimalTests\\AnimalInheritanceTests.cs",
+              "RelativeDocumentMoniker": "AnimalTests\\AnimalInheritanceTests.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\AnimalTests\\AnimalInheritanceTests.cs",
+              "RelativeToolTip": "AnimalTests\\AnimalInheritanceTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:21:03.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

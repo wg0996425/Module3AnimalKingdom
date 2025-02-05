@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj": {}
+    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj": {
+    "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj",
+        "projectUniqueName": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj",
         "projectName": "Module3AnimalKingdomVER2",
-        "projectPath": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj",
+        "projectPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2.csproj",
         "packagesPath": "C:\\Users\\wg0996425\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wg0996425\\source\\repos\\CIS_150\\Module3AnimalKingdomVER2\\Module3AnimalKingdomVER2\\obj\\",
+        "outputPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\Module3AnimalKingdom\\Module3AnimalKingdomVER2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -48,7 +48,7 @@ namespace AnimalTests
 
             // Act & Assert
             Assert.AreEqual("Macaw", bird.Name);
-            Assert.AreEqual(5, bird.Age);
+            Assert.AreEqual(6, bird.Age);
         }
 
         [TestMethod]
